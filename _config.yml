@@ -1,0 +1,8 @@
+github:
+  is_project_page: false
+markdown: kramdown
+kramdown:
+    math_engine: katex
+name: "Jane Street Puzzles"
+title: "Jane Street Puzzles"
+theme: jekyll-theme-midnight
